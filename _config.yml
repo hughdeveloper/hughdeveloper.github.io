@@ -6,14 +6,16 @@ url: "0.0.0.0" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Hugh Bethell
-  avatar: 
+  avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer</h1>
-  header_text_feature_image:
+     <h1>Designer, Developer, Entrepreneur</h1>
+
+# image for the heaer of the about page
+  header_text_feature_image: sample_feature_img.png
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
@@ -25,9 +27,9 @@ theme_settings:
   dribbble: 
   facebook: 
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "hughdeveloper"
   google_plus:
-  instagram: "joeykirk"
+  instagram: 
   linkedin:  # Full URL
   pinterest:
   reddit:
@@ -35,7 +37,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: 
   wordpress:
   youtube:
 
