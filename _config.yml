@@ -15,7 +15,7 @@ theme_settings:
      <h1>Designer, Developer, Entrepreneur</h1>
 
 # image for the heaer of the about page
-  header_text_feature_image: sample_feature_img.png
+  header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
