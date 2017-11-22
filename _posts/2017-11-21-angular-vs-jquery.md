@@ -1,17 +1,10 @@
 ---
 layout: post
-title: Frameworks CaseStudies
+title: Frameworks Case Study
 ---
 
 
-#### Abstract
-
 Choosing a framework or library for a new project can be difficult. Bloc Jams Angular was a music website created with the use of Angular and/or JQuery, where people can listen to music streamed through the internet. This is what I learned.
-
-
-
-
-
 
 
 #### Explanation
